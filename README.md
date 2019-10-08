@@ -1,1 +1,1 @@
-- Blockchain-Exercise-Codecademy
+- Blockchain-Exercise by Codecademy
